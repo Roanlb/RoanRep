@@ -1,0 +1,3 @@
+function doubler (no) {
+  no *= 2;
+  return no;}
